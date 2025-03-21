@@ -12,6 +12,6 @@ case $option in
         sh "$HOME/home1.sh"
         ;;
     home_rm)
-        sh echo -e "TODO"
+        sh "$HOME/home2.sh"
         ;;
 esac
