@@ -9,9 +9,9 @@ dir_xrand="$HOME/.config/i3/script"
 
 case $option in
     home_valle)
-        sh "$HOME/home1.sh"
+        sh "$dir_xrand/home1.sh"
         ;;
     home_rm)
-        sh "$HOME/home2.sh"
+        sh "$dir_xrand/home2.sh"
         ;;
 esac
